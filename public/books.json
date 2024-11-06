@@ -1,0 +1,203 @@
+[
+    {
+      "_id": 1,
+      "title": "MGoPro HERO13 Black Creator Edition",
+      "description": "HERO13 Black detects when a lens or filter is attached and automatically adjusts its settings accordingly.",
+      "category": "gopro",
+      "trending": true,
+      "coverImage": "gopro1.png",
+      "oldPrice": 64990,
+      "newPrice": 64599
+    },
+    {
+      "_id": 2,
+      "title": "Nikon Z 6III Mirrorless Camera",
+      "description": "The world's first*1 partially-stacked CMOS sensor, featuring 24.5 effective megapixels, achieves an approximately 3.5x faster readout than the Z6II.",
+      "category": "books",
+      "trending": true,
+      "coverImage": "nikon1.png",
+      "oldPrice": 292990,
+      "newPrice": 263416
+    },
+    {
+      "_id": 3,
+      "title": "Mastering SEO in 2024",
+      "description": "Tips and tricks to boost your SEO and rank higher on search engines.",
+      "category": "marketing",
+      "trending": true,
+      "coverImage": "book-3.png",
+      "oldPrice": 39.99,
+      "newPrice": 29.99
+    },
+    {
+      "_id": 4,
+      "title": "GoPro Hero12 Black + Accessories Bundle",
+      "description": "detects when a lens or filter is attached and automatically adjusts its settings accordingly.",
+      "category": "gopro",
+      "trending": false,
+      "coverImage": "gopro3.png",
+      "oldPrice": 53800,
+      "newPrice": 39999
+    },
+    {
+      "_id": 5,
+      "title": "Non-Fiction Reads You Must Try",
+      "description": "Our top picks for non-fiction books to add to your reading list.",
+      "category": "books",
+      "trending": true,
+      "coverImage": "book-5.png",
+      "oldPrice": 19.99,
+      "newPrice": 9.99
+    },
+    {
+      "_id": 6,
+      "title": "Ultimate Guide to Digital Marketing",
+      "description": "A complete guide to digital marketing strategies for 2024.",
+      "category": "marketing",
+      "trending": false,
+      "coverImage": "book-6.png",
+      "oldPrice": 44.99,
+      "newPrice": 34.99
+    },
+    {
+      "_id": 7,
+      "title": "Insta360 ONE RS",
+      "description": "The only action camera that shoots mind-blowing 360 and wide-angle action shots with just the swap of a lens. ",
+      "category": "insta",
+      "trending": true,
+      "coverImage": "insta1.png",
+      "oldPrice": 79.990,
+      "newPrice": 74.499
+    },
+    {
+      "_id": 8,
+      "title": "Nikon Z 8 Mirrorless Camera",
+      "description": "partially-stacked CMOS sensor, featuring 24.5 effective megapixels, achieves an approximately 3.5x faster readout than the Z6II",
+      "category": "nikon",
+      "trending": true,
+      "coverImage": "nikon2.png",
+      "oldPrice": 441990,
+      "newPrice": 423995
+    },
+    {
+      "_id": 9,
+      "title": "VXD Lens for Sony",
+      "description": "Tamron 20-40mm f/2.8 Di III VXD Lens for Sony",
+      "category": "lense",
+      "trending": false,
+      "coverImage": "lenc1.png",
+      "oldPrice": 66900,
+      "newPrice": 62217
+    },
+    {
+      "_id": 10,
+      "title": "Nikon Zfc Mirrorless Camera",
+      "description": "partially-stacked CMOS sensor, featuring 24.5 effective megapixels, achieves an approximately 3.5x faster readout than.",
+      "category": "nikon",
+      "trending": true,
+      "coverImage": "nikon3.png",
+      "oldPrice": 120995,
+      "newPrice": 107850
+    },
+    {
+      "_id": 11,
+      "title": "Nikon Z5 Mirrorless Camera",
+      "description": "Push the limits of your creativity with Z 5, an innovative full frame mirrorless camera built around Nikon's revolutionary Z mount.",
+      "category": "nikon",
+      "trending": true,
+      "coverImage": "nikon4.png",
+      "oldPrice":  169.995,
+      "newPrice":  148.790
+    },
+    {
+      "_id": 12,
+      "title": "GoPro HERO11 Black Creator Edition",
+      "description": "This GoPro HERO11 Black Creator Edition Bundle equips you with a HERO11 Black action camera, Media Mod, Light Mod, and Volta Battery Grip. ",
+      "category": "gopro",
+      "trending": true,
+      "coverImage": "gopro2.png",
+      "oldPrice": 26599,
+      "newPrice": 25999
+    },
+    {
+      "_id": 13,
+      "title": "Insta360 ACE Pro 8K Action Camera",
+      "description": "The suite includes Macro Lens Mod, Ultra Wide Lens Mod, Smart Motion Blur ND Filter 4-Pack, and Anamorphic Lens Mod. NOTE: All lenses sold separately.",
+      "category": "insta",
+      "trending": true,
+      "coverImage": "insta2.png",
+      "oldPrice": 49990,
+      "newPrice": 34990
+    },
+    {
+      "_id": 14,
+      "title": "Nikon Z 9 Mirrorless Camera",
+      "description": "Push the limits of your creativity with Z 5, an innovative full frame mirrorless camera built around Nikon's revolutionary Z mount.",
+      "category": "nikon",
+      "trending": false,
+      "coverImage": "nikon5.png",
+      "oldPrice":475.995,
+      "newPrice": 429.899
+    },
+    {
+      "_id": 15,
+      "title": "Nikon Z 6III Mirrorless Camera",
+      "description": "Push the limits of your creativity with Z 5, an innovative full frame mirrorless camera built around Nikon's revolutionary Z mount.",
+      "category": "nikon",
+      "trending": false,
+      "coverImage": "nikon6.png",
+      "oldPrice": 337.985,
+      "newPrice": 303.102
+    },
+    {
+      "_id": 16,
+      "title": "Nikon Z5 Mirrorless Camera",
+      "description": "Nikon Z5 Mirrorless Camera with NIKKOR Z 24-50mm f/4-6.3 Lens",
+      "category": "nikon",
+      "trending": false,
+      "coverImage": "nikon7.png",
+      "oldPrice": 134.995,
+      "newPrice": 118.490
+    },
+    {
+      "_id": 17,
+      "title": "VXD Lens for Nikon Z",
+      "description": "Tamron 35-150mm f/2-2.8 Di III VXD Lens for Nikon Z",
+      "category": "lense",
+      "trending": true,
+      "coverImage": "lenc2.png",
+      "oldPrice": 164000,
+      "newPrice": 143748
+    },
+    {
+      "_id": 18,
+      "title": "GoPro HERO",
+      "description": "detects when a lens or filter is attached and automatically adjusts its settings accordingly.",
+      "category": "gopro",
+      "trending": true,
+      "coverImage": "gopro5.png",
+      "oldPrice": 25443,
+      "newPrice": 24999
+    },
+    {
+      "_id": 19,
+      "title": "Canon RF 800mm",
+      "description": "Canon RF 800mm f/5.6 L IS USM Lens",
+      "category": "lense",
+      "trending": true,
+      "coverImage": "lenc3.png",
+      "oldPrice": 1599995,
+      "newPrice": 1520390
+    },
+    {
+      "_id": 20,
+      "title": "GoPro Hero10 Black Action Camera",
+      "description": "detects when a lens or filter is attached and automatically adjusts its settings accordingly.",
+      "category": "gopro",
+      "trending": false,
+      "coverImage": "gopro4.png",
+      "oldPrice": 54500,
+      "newPrice": 24999
+    }
+  ]
+  
